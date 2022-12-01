@@ -5,4 +5,3 @@ deployment4
 deploy to satging env
 echo good job.
 Tested and accepted
-
